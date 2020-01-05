@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/moviql-client/static/js/main.48584fd5.chunk.js",
+    "main.js.map": "/moviql-client/static/js/main.48584fd5.chunk.js.map",
+    "runtime-main.js": "/moviql-client/static/js/runtime-main.68fa2265.js",
+    "runtime-main.js.map": "/moviql-client/static/js/runtime-main.68fa2265.js.map",
+    "static/js/2.8e5981d5.chunk.js": "/moviql-client/static/js/2.8e5981d5.chunk.js",
+    "static/js/2.8e5981d5.chunk.js.map": "/moviql-client/static/js/2.8e5981d5.chunk.js.map",
+    "index.html": "/moviql-client/index.html",
+    "precache-manifest.b5434d64952c5dec6b3d4550aa926394.js": "/moviql-client/precache-manifest.b5434d64952c5dec6b3d4550aa926394.js",
+    "service-worker.js": "/moviql-client/service-worker.js",
+    "static/js/2.8e5981d5.chunk.js.LICENSE": "/moviql-client/static/js/2.8e5981d5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68fa2265.js",
+    "static/js/2.8e5981d5.chunk.js",
+    "static/js/main.48584fd5.chunk.js"
+  ]
+}
