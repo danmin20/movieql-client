@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 import { Helmet } from "react-helmet";
-import { Query } from "react-apollo";
 import { HOME_PAGE } from "./queries";
 import { useQuery } from "react-apollo-hooks";
 import Movie from "./Movie";
@@ -11,6 +10,7 @@ const Container = styled.div`
   grid-template-columns: repeat(3, 0.7fr);
   flex-wrap: wrap;
   justify-items: center;
+  background-color: #2c2c2c;
 `;
 
 const Home = () => {
@@ -20,7 +20,7 @@ const Home = () => {
       <Helmet>
         <title>Home | MovieQL</title>
       </Helmet>
-      {loadding && "Loading"}
+      {loading && "Loading"}
       {error && "ERROR!"}
       {!loading &&
         data &&
