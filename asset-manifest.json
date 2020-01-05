@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/moviql-client/static/js/main.48584fd5.chunk.js",
-    "main.js.map": "/moviql-client/static/js/main.48584fd5.chunk.js.map",
-    "runtime-main.js": "/moviql-client/static/js/runtime-main.68fa2265.js",
-    "runtime-main.js.map": "/moviql-client/static/js/runtime-main.68fa2265.js.map",
-    "static/js/2.8e5981d5.chunk.js": "/moviql-client/static/js/2.8e5981d5.chunk.js",
-    "static/js/2.8e5981d5.chunk.js.map": "/moviql-client/static/js/2.8e5981d5.chunk.js.map",
-    "index.html": "/moviql-client/index.html",
-    "precache-manifest.b5434d64952c5dec6b3d4550aa926394.js": "/moviql-client/precache-manifest.b5434d64952c5dec6b3d4550aa926394.js",
-    "service-worker.js": "/moviql-client/service-worker.js",
-    "static/js/2.8e5981d5.chunk.js.LICENSE": "/moviql-client/static/js/2.8e5981d5.chunk.js.LICENSE"
+    "main.js": "/movieql-client/static/js/main.48584fd5.chunk.js",
+    "main.js.map": "/movieql-client/static/js/main.48584fd5.chunk.js.map",
+    "runtime-main.js": "/movieql-client/static/js/runtime-main.9c2e53a7.js",
+    "runtime-main.js.map": "/movieql-client/static/js/runtime-main.9c2e53a7.js.map",
+    "static/js/2.d02a8f05.chunk.js": "/movieql-client/static/js/2.d02a8f05.chunk.js",
+    "static/js/2.d02a8f05.chunk.js.map": "/movieql-client/static/js/2.d02a8f05.chunk.js.map",
+    "index.html": "/movieql-client/index.html",
+    "precache-manifest.4a01a9b773fdc63ece82c63250336f58.js": "/movieql-client/precache-manifest.4a01a9b773fdc63ece82c63250336f58.js",
+    "service-worker.js": "/movieql-client/service-worker.js",
+    "static/js/2.d02a8f05.chunk.js.LICENSE": "/movieql-client/static/js/2.d02a8f05.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.68fa2265.js",
-    "static/js/2.8e5981d5.chunk.js",
+    "static/js/runtime-main.9c2e53a7.js",
+    "static/js/2.d02a8f05.chunk.js",
     "static/js/main.48584fd5.chunk.js"
   ]
 }
