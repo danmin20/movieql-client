@@ -10,7 +10,6 @@ const Container = styled.div`
   grid-template-columns: repeat(3, 0.7fr);
   flex-wrap: wrap;
   justify-items: center;
-  background-color: #2c2c2c;
 `;
 
 const Home = () => {
