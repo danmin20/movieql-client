@@ -1,5 +1,6 @@
 # MovieQL Client
 Movie Website made with React, Apollo and GraphQL<br/>
+[MovieQL](https://github.com/danmin20/movieql)
 
 ## App
 Name : "The MovieQL"<br/>
