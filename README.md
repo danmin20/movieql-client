@@ -1,5 +1,5 @@
 # MovieQL Client
-Movie App Made With React, Apollo, GraphQL<br/>
+Movie App Made With React, Apollo and GraphQL<br/>
 
 ## App
 Name : "The MovieQL"<br/>
