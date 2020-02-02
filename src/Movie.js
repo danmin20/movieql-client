@@ -11,7 +11,7 @@ const Card = styled.div`
   background-position: center center;
   height: 300px;
   width: 200px;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
   position: relative;
 `;
 

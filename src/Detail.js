@@ -27,7 +27,7 @@ const Title = styled.h1`
   margin-left: 10px;
   font-size: 24px;
   font-weight: 200;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 `;
 
 const Paragraph = styled.span`
@@ -74,7 +74,7 @@ const Detail = ({
         <Image src={data.movie.medium_cover_image} />
         <span>
           <Title>{data.movie.title}</Title>
-          <Paragraph bold>Rating: {data.movie.rating} / 10</Paragraph>
+          <Paragraph style={{fontWeight:400}}>Rating: {data.movie.rating} / 10</Paragraph>
           <Paragraph>{data.movie.description_intro}</Paragraph>
         </span>
       </Container>
